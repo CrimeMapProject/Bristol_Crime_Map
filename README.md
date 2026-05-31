@@ -45,11 +45,9 @@ Generates rich geospatial charts integrating automated screen-bounding (`fit_bou
 
 GitHub does not render raw interactive HTML templates by default. You can seamlessly experience the dynamic features of the generated analytical maps by using the secure mirrors below:
 
-🔗 **[Click Here to Open the Interactive Point-Cluster Map](https://htmlpreview.github.io/?https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/bristol_crime_map.html)**
+🔗 **[Click Here to Open the Interactive Point-Cluster Map](https://htmlpreview.github.io/?https://github.com/CrimeMapProject/Bristol_Crime_Map/blob/main/bristol_crime_map.html)**
 
-🔗 **[Click Here to Open the Live Dynamic Crime Heatmap](https://htmlpreview.github.io/?https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/bristol_crime_heatmap.html)**
-
-*(Note: Please replace `YOUR_GITHUB_USERNAME` and `YOUR_REPO_NAME` in the links above with your actual GitHub username and repository name after publishing.)*
+🔗 **[Click Here to Open the Live Dynamic Crime Heatmap](https://htmlpreview.github.io/?https://github.com/CrimeMapProject/Bristol_Crime_Map/blob/main/bristol_crime_heatmap.html)**
 
 ---
 
