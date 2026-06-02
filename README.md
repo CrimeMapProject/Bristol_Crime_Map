@@ -4,7 +4,7 @@ An advanced, end-to-end Python data pipeline that extracts, processes, and visua
 
 ---
 
-## 🚀 Key Features
+# 🚀 Key Features
 
 * **Custom Grid-Based Extraction:** Employs a multi-point circular coordinate grid system to completely bypass pagination and size limitations of the official UK Police REST API.
 * **Algorithmic Risk Scoring Model:** Groups records by unique geographic locations and weights them analytically based on crime severity thresholds (High, Medium, Low risk).
